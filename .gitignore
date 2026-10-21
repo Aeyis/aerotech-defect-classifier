@@ -1,0 +1,13 @@
+# Dataset (trop lourd pour GitHub, voir README)
+product_image/
+*.zip
+
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
